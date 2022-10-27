@@ -1,0 +1,25 @@
+/***** photo-grid *****/
+.photo-grid {
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 16px;
+}
+
+@media screen and (max-width: 1278px) {
+  .photo-grid {
+  grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+@media screen and (max-width: 1022px) {
+  .photo-grid {
+  grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media screen and (max-width: 766px) {
+  .photo-grid {
+  grid-template-columns: 1fr;
+  }
+}

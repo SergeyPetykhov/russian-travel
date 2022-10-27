@@ -1,0 +1,15 @@
+.travel {
+  max-width: 690px;
+}
+
+@media screen and (max-width: 896px) {
+  .travel {
+    max-width: 720px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .travel {
+    max-width: 288px;
+  }
+}

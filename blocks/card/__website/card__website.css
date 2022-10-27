@@ -1,0 +1,24 @@
+.card__website {
+  width: 484px;
+  align-self: flex-end;
+}
+
+@media screen and (max-width: 1152px) {
+  .card__website {
+    width: 456px;
+  }
+}
+
+@media screen and (max-width: 1022px) {
+  .card__website {
+    width: 352px;
+  }
+}
+
+@media screen and (max-width: 766px) {
+  .card__website {
+    width: 288px;
+    align-self: flex-start;
+    margin-left: 16px;
+  }
+}

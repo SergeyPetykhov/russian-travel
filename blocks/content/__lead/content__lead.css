@@ -1,0 +1,16 @@
+/***** content__lead *****/
+.content__lead {
+  padding: 0 148px 0;
+}
+
+@media screen and (max-width: 1278px) {
+  .content__lead {
+    padding: 0 48px 0;
+  }
+}
+
+@media screen and (max-width: 896px) {
+  .content__lead {
+    padding: 0;
+  }
+}

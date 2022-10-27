@@ -1,0 +1,16 @@
+.places__card {
+  padding-bottom: 80px;
+}
+
+@media screen and (max-width: 766px) {
+  .places__card {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+}
+
+.places__card:last-child {
+  padding-bottom: 0px;
+}
+
+

@@ -1,0 +1,22 @@
+.card__text {
+  width: 484px;
+}
+
+@media screen and (max-width: 1152px) {
+  .card__text {
+    width: 456px;
+  }
+}
+
+@media screen and (max-width: 1022px) {
+  .card__text {
+    width: 352px;
+  }
+}
+
+@media screen and (max-width: 766px) {
+  .card__text {
+    width: 288px;
+    margin-left: 16px;
+  }
+}
