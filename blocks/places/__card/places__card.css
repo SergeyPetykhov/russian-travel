@@ -2,8 +2,15 @@
   padding-bottom: 80px;
 }
 
+@media screen and (max-width: 896px) {
+  .places__card {
+    padding-bottom: 73px;
+  }
+}
+
 @media screen and (max-width: 766px) {
   .places__card {
+    padding-bottom: 50px;
     margin: 0 auto;
     max-width: 320px;
   }
@@ -12,5 +19,6 @@
 .places__card:last-child {
   padding-bottom: 0px;
 }
+
 
 

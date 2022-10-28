@@ -3,7 +3,7 @@
   text-decoration: none;
   color: inherit;
   opacity: 1;
-  transition: opacity .5s;
+  transition: .5s;
 }
 
 .link:hover {

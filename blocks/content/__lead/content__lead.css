@@ -1,5 +1,5 @@
-/***** content__lead *****/
 .content__lead {
+  box-sizing: border-box;
   padding: 0 148px 0;
 }
 

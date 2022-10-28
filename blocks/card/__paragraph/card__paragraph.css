@@ -1,16 +1,16 @@
-.card__paragraf {
+.card__paragraph {
   margin: 0 0 26px;
   font-weight: 400;
   font-size: 18px;
   line-height: 1.63;
 }
 
-.card__paragraf:last-child {
+.card__paragraph:last-child {
   margin: 0;
 }
 
 @media screen and (max-width: 1022px) {
-  .card__paragraf {
+  .card__paragraph {
     font-size: 16px;
     line-height: 1.63;
   }
