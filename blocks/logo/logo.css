@@ -1,11 +1,10 @@
-/***** logo *****/
-.logo_place_header {
+.logo {
   width: 176px;
   height: 52px;
 }
 
 @media screen and (max-width: 544px) {
-  .logo_place_header {
+  .logo {
     width: 142px;
     height: 42px;
   }

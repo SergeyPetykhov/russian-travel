@@ -11,6 +11,6 @@
 
 @media screen and (max-width: 766px) {
   .root__footer {
-    margin: 0 24px 16px;
+    margin: 0 16px 24px;
   }
 }
