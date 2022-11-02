@@ -1,10 +1,12 @@
-.header__link-list {
+.header__links-list {
   margin: 0 0 6px;
   padding: 0;
+  display: flex;
+  justify-content: space-between;
 }
 
 @media screen and (max-width: 544px) {
-  .header__link-list {
+  .header__links-list {
     margin: 0 0 8px;
   }
 }
